@@ -1,0 +1,60 @@
+Comandos GIT
+
+
+git add: Agrega los archivos al repositorio
+
+git archive: Crea un tar o zip con el contenido del árbol del repositorio
+
+git branch: Crea y lista ramas
+
+git cat-file: *muestra el tipo del objeto a través del valor SHA-1.
+
+git checkout: Cambia de rama.
+
+git clone: clona un repositorio remotamente.
+
+git commit: "commitea" los cambios.
+
+git config: setea la configuracion de la cuenta git.
+
+git diff: muestra las diferencias mi directorio local y el repositorio.
+
+git fetch: trae todos los archivos que están en el repositorio pero no están en mi directorio local.
+
+git fsck: chequea la integridad de los archivos identificando archivos corruptos
+
+git gc: es el garbage collector del repositorio. (Optimización)
+
+git grep: *permite ver arboles de contenido para palabras y frases.
+
+git init: crea un repositorio vacío.
+
+git instaweb: corre un webserver con una interfaz en mi directorio local.
+
+git log: muestra los detalles de los commits de una rama.
+
+git ls-tree: muestra el arbol incluyendo el nombre de cada item y SHA-1.
+
+git merge: hace un merge entre branches y automaticamente hace commit si no hay conflictos.
+
+git rm: elimina archivos de mi directorio local.
+
+git prune: elimina archivos que no son apuntados por nadie en ninguna rama.
+
+git pull: git fech + git merge.
+
+git push: pone en el repositorio remoto todos los objetos modificados localmente.
+
+git remote: *muestra todas las versiones remotas del repositorio
+
+git reset: resetea el directorio local llevandolo al estado que tenia antes del ultimo commit.
+
+git show: muestra info sobre el objeto git
+
+git stash: guarda temporalmente los cambios que hago.
+
+git status: muestra el estado de los archivos del directorio local.
+
+git tag: etiqueta un commit.
+
+gitk: corre la interface git
