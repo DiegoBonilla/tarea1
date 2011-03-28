@@ -3,11 +3,11 @@ Comandos GIT
 
 git add: Agrega los archivos al repositorio
 
-git archive: Crea un tar o zip con el contenido del ·rbol del repositorio
+git archive: Crea un tar o zip con el contenido del √°rbol del repositorio
 
 git branch: Crea y lista ramas
 
-git cat-file: *muestra el tipo del objeto a travÈs del valor SHA-1.
+git cat-file: *muestra el tipo del objeto a trav√©s del valor SHA-1.
 
 git checkout: Cambia de rama.
 
@@ -19,15 +19,15 @@ git config: setea la configuracion de la cuenta git.
 
 git diff: muestra las diferencias mi directorio local y el repositorio.
 
-git fetch: trae todos los archivos que est·n en el repositorio pero no est·n en mi directorio local.
+git fetch: trae todos los archivos que est√°n en el repositorio pero no est√°n en mi directorio local.
 
 git fsck: chequea la integridad de los archivos identificando archivos corruptos
 
-git gc: es el garbage collector del repositorio. (OptimizaciÛn)
+git gc: es el garbage collector del repositorio. (Optimizaci√≥n)
 
 git grep: *permite ver arboles de contenido para palabras y frases.
 
-git init: crea un repositorio vacÌo.
+git init: crea un repositorio vac√≠o.
 
 git instaweb: corre un webserver con una interfaz en mi directorio local.
 
